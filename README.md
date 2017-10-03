@@ -18,6 +18,19 @@ To begin using this program, choose one of the following options to get started:
 
 ## Usage
 
+First and most all make sure you have the dependencies install.
+
+#### Dependencies 
+
+The dependencies can be all install via [pip](https://pypi.python.org/pypi/pip)
+
+1. Numpy
+2. OpenCV 
+
+Note:  You can install OpenCV via pip with the following command: 
+
+`pip install opencv-python` or simply run first the requirements.txt file.
+
 ### Basic Usage
 
 After downloading, simply open the `Test.py` file in your web browser.
