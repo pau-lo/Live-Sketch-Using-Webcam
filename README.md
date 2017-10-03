@@ -2,7 +2,7 @@
 
 Generating a live sketch using OpenCV through video capturing.
 
-This is a program that will use your computer camera to converted to a live sketch.
+This program will use your computer camera and then will convert your video to a live sketch.
 
 Try it out.
 
@@ -27,5 +27,5 @@ After downloading, simply open the `Test.py` file in your web browser.
 None.
 
 
-## Thanks
+### Thanks
 
