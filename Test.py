@@ -1,8 +1,8 @@
 import cv2
 import numpy as np
 
-# Our sketch generating function
 
+# Our sketch generating function
 
 def sketch(image):
     # Convert image to grayscale
@@ -22,6 +22,7 @@ def sketch(image):
 # Initialize webcam, cap is the object provided by VideoCapture
 # It contains a boolean indicating if it was sucessful (ret)
 # It also contains the images collected from the webcam (frame)
+
 cap = cv2.VideoCapture(0)
 
 while True:
